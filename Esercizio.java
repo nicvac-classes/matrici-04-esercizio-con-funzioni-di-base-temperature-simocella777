@@ -90,6 +90,7 @@ class Esercizio {
        
         for(int i = 0; i < Vm.length; ++i){
             System.out.println((i+1) + "° : " + Vm[i]);
+            
         }
 
     }
